@@ -1,6 +1,22 @@
 # Dreamscape
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Dreamscape is a web-based dream journaling and AI-powered interpretation platform designed to help users reflect on their dreams, understand subconscious thoughts, and spark creativity. With immersive UI/UX and integrated generative models, users can document, visualize, and gain insights into their dreams like never before.
+
+🔮 Features:
+
+✍️ Dream Journaling – Log daily dreams with a smooth, dark-themed editor.
+
+🌠 AI-Powered Interpretation – Analyze and interpret dreams using LLMs (e.g., Gemini) for narrative insight.
+
+🖼️ Visual Generation – Generate dream-inspired images using Imagen-3 API.
+
+🔐 Authentication System – Secure login and registration with password hashing.
+
+📅 Starlit Notes – Add personal notes, quotes, or reflections under the stars.
+
+📊 Dashboard – Visual analytics of mood, topics, or recurring dream patterns.
+
+🧠 LLM Use Cases – Prompt engineering, summarization, thematic clustering.
 
 ## Getting Started
 
@@ -18,16 +34,14 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a custom font family.
 
-## Learn More
+##  Why Dreamscape?
 
-To learn more about Next.js, take a look at the following resources:
+Encourages mental well-being through reflective practice
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Uses AI responsibly to uncover meaningful patterns
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Offers a unique intersection of psychology, art, and technology
 
