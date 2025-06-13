@@ -2,7 +2,7 @@
 
 Dreamscape is a web-based dream journaling and AI-powered interpretation platform designed to help users reflect on their dreams, understand subconscious thoughts, and spark creativity. With immersive UI/UX and integrated generative models, users can document, visualize, and gain insights into their dreams like never before.
 
-🔮 Features:
+## 🔮 Features:
 
 ✍️ Dream Journaling – Log daily dreams with a smooth, dark-themed editor.
 
